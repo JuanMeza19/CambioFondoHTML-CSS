@@ -1,0 +1,32 @@
+body{
+    background-image:url(../Wallpaper/ControlGame.jpg) ;
+}
+
+h1{
+    text-align: center;
+}
+
+#blink{
+    font-family: "Brush Script MT"; 
+    color: #990000;  
+}
+
+.lblNormal{
+    font-weight: 200;
+    color: #FF0000;
+    font-family:"Brush Script MT";
+    font-size:16px;
+}
+
+.cmbNormal{
+    font-size: 16;
+    color: #660033;
+    font-family:"Brush Script MT";
+}
+
+.lstElemento{
+    color:#FFFFFF;
+    font-size: 10PX;
+    font-family:"Brush Script MT";
+}
+
